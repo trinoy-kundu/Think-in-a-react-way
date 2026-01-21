@@ -1,4 +1,5 @@
 import React from "react";
+import "./TemperatureInput.css"; // Add this line
 
 const scaleNames = {
     c: 'Celsius',
